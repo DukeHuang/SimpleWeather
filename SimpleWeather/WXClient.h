@@ -7,8 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
-@import CoreLocation;
 #import <ReactiveCocoa/ReactiveCocoa/ReactiveCocoa.h>
+@import CoreLocation;
+
 
 @interface WXClient : NSObject
 

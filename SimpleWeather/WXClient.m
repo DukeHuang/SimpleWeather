@@ -11,6 +11,7 @@
 #import "WXDailyForecast.h"
 #import "WXHourlyForecast.h"
 
+
 @interface WXClient()
 
 @property(nonatomic,strong)NSURLSession *session;

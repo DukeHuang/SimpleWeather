@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 @import CoreLocation;
 #import "WXClient.h"
-#import <ReactiveCocoa.h>
+#import <ReactiveCocoa/ReactiveCocoa/ReactiveCocoa.h>
 #import "WXCondition.h"
 #import <TSMessage.h>
 #import "WXHourlyForecast.h"

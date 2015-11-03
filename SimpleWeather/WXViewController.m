@@ -9,7 +9,7 @@
 #import "WXViewController.h"
 #import <LBBlurredImage/UIImageView+LBBlurredImage.h>
 #import "WXManager.h"
-#import <ReactiveCocoa.h>
+#import <ReactiveCocoa/ReactiveCocoa/ReactiveCocoa.h>
 #import "WXDailyForecast.h"
 #import "WXHourlyForecast.h"
 
